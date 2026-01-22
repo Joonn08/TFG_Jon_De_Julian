@@ -1,7 +1,0 @@
-[theme]
-primaryColor = "#00897B"
-backgroundColor = "#FFFFFF"             # Fondo exterior
-secondaryBackgroundColor = "#C1E1C1"    # Fondo de los paneles y widgets
-textColor = "#1a1f36"
-font = "sans serif"
-
